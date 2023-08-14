@@ -39,5 +39,5 @@ INSTALLATION
 ------------
 
 1. `git clone https://github.com/xHyroM/cinnamon-system-controls.git`
-2. `mv cinnamon-system-controls/files/system-controls@xhyrom ~/.local/share/cinnamon/applets -r`
+2. `mv cinnamon-system-controls/files/system-controls@xhyrom ~/.local/share/cinnamon/applets`
 3. Done :D
