@@ -34,3 +34,10 @@ This applet depends on the following packages being installed:
   * cinnamon-screensaver
   * cinnamon-session
   * loginctl
+
+INSTALLATION
+------------
+
+1. `git clone https://github.com/xHyroM/cinnamon-system-controls.git`
+2. `mv cinnamon-system-controls/files/system-controls@xhyrom ~/.local/share/cinnamon/applets -r`
+3. Done :D
